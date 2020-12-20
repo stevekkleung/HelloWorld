@@ -1,3 +1,3 @@
 # HelloWorld
-learn GitHub again
-Dec 13, 2020
+learn GitHub create branch, edit, commit (save), then pull
+Dec 20, 2020
